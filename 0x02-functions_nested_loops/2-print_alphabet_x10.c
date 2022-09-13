@@ -13,7 +13,7 @@ void print_10_times(void)
 		{
 			for (letter = 'a'; letter <= 'z'; letter++)
 			{
-				putchar(letter);
+				_putchar(letter);
 			}
 			_putchar('\n');
 		}
