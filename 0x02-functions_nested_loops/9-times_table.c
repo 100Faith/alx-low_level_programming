@@ -11,11 +11,11 @@ void times_table(void)
 	for (a = 0; a <= 9; a++)
 	{
 		_putchar(48);
-		for (b = 0; b <= 9; b++)
+		for (b = 1; b <= 9; b++)
 		{
 			op = a * b;
-			_putchar(44);
 			_putchar(32);
+			_putchar(44);
 			if (op <= 9)
 			{
 				_putchar(32);
