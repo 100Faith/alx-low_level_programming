@@ -1,8 +1,8 @@
 #include "variadic_functions.h"
 /**
- * print_numbers - prints numbers, followed by a new line.
- * @n: number of integers passed to the function
- * @separator: string to be printed between numbers
+ * print_numbers - prints numbers.
+ * @n: variadic variable count
+ * @separator: char
  *
  * Return: void.
  */
