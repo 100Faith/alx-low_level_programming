@@ -2,7 +2,7 @@
 /**
  * create_file - creates a file.
  * @filename: filename.
- * @text_content - content written in the file.
+ * @text_content: content written in the file.
  *
  * Return: 1 if it succeeds, -1 if it fails.
  */
